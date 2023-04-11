@@ -14,6 +14,7 @@ Laboratory 1 of computer graphics course
 - en la rama main se encuentran scripts de python que muestran vectores y la simulación hecha plenamente en 2D.
 - en la rama c++ se muestran archivos de éste lenguaje que simulan un comportamiento en 3D.
 - se deja en una rama distinta las librerias a utilizar para la implementación de la actividad 3 de este laboratorio.
+- la simulación hecha en c++, permite al usuario interactuar en un mundo semiabierto, es decir, puede moverse con el teclado y rotar la vista con el mouse.
 
 ## Requerimientos
 - se requiere de las siguientes librerias:
